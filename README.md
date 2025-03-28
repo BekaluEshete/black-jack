@@ -21,4 +21,4 @@ A simple command-line Blackjack game written in Python. The game follows standar
 1. Clone the repository:
    ```bash
    git clone https://github.com/BekaluEshete/blackjack-game.git
-   cd blackjack
+   cd black-jack
