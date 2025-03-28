@@ -23,6 +23,10 @@ A simple command-line Blackjack game written in Python. The game follows standar
    git clone https://github.com/BekaluEshete/blackjack-game.git
    cd black-jack
 
+
+   
+   📜 Example Gameplay
+
 Welcome to Blackjack! 🃏
 
 Your cards: [10, 6], current score: 16
