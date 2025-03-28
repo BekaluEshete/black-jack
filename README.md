@@ -25,7 +25,9 @@ A simple command-line Blackjack game written in Python. The game follows standar
 
 
    
-   📜 Example Gameplay
+
+
+📜 Example Gameplay
 
 Welcome to Blackjack! 🃏
 
